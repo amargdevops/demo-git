@@ -1,0 +1,7 @@
+git init
+git config --global user.name="";
+git config --global user.email"abc@gmail.com"
+touch file1.txt
+git add .
+git commt -m "initial commit"
+git push origin master
